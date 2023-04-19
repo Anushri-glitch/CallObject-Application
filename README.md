@@ -4,7 +4,7 @@
 ## :one: Frameworks and Languages Used -
     1. SpringBoot
     2. JAVA
-    3. Postman
+    3. Browser
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ## :two: Dataflow (Functions Used In)
